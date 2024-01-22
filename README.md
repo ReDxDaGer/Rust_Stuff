@@ -8,4 +8,11 @@
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 source ~/.bashrc
 ```
+# How to make your first project
+```bash
+cargo new <name of project>
+cd <name of project> && cd src
+cargo run 
+```
 # Enjoy
+If you
